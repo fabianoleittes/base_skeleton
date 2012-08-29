@@ -1,0 +1,13 @@
+pt-BR:
+  flash:
+    users:
+      create:
+        notice: "Seu cadastro foi realizado com sucesso!"
+        alert: "Verifique os erros!"
+
+    sessions:
+      create:
+        notice: "Que bom que você voltou!"
+        alert: "Verifique os erros!!!!!!!!!!!"
+      destroy:
+        notice: "Saiu com sucesso!!!"
